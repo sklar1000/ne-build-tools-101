@@ -64,17 +64,6 @@
 
 ---
 
-## Step 6: Connect to Your Pretotype
-
-Now that you have a working build tool, connect it to your Value Staircase:
-
-- **Level 1** (Information): Build a guide or resource page. Deploy it. Share the URL. Track how many people visit and how long they stay.
-- **Level 2** (Assessment): Build a quiz, calculator, or audit tool. Deploy it. Track completions and email captures.
-- **Level 3** (Partial Solution): Build a tool that delivers personalized output (meal plan, compliance report, JD rewrite). Deliver it manually to 5 strangers.
-- **Level 4** (Transaction): Add a payment link (Stripe or PayPal button). Ask for real money.
-
----
-
 ## Tips
 
 - **Save often** — Replit auto-saves, but check that your changes are reflected in the preview
@@ -85,6 +74,4 @@ Now that you have a working build tool, connect it to your Value Staircase:
 
 ---
 
-## Next Step
-
-Go to **[Build Your First Artifact](your-first-build.md)** to turn your Value Staircase into a working pretotype.
+**You're set up. We'll build together in Thursday's class.**

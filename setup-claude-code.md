@@ -104,6 +104,4 @@ You'll get a URL that anyone can visit.
 
 ---
 
-## Next Step
-
-Go to **[Build Your First Artifact](your-first-build.md)** to turn your Value Staircase into a working pretotype.
+**You're set up. We'll build together in Thursday's class.**
