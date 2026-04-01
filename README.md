@@ -34,9 +34,7 @@ Set up your account. We'll do everything else together in Thursday's class.
 
 ## Questions?
 
-- **In class**: Ask during Thursday's build session
-- **Office hours**: [Book 15 min](https://calendly.com/michael-685/student-1-1-15-min)
-- **Email**: ms238@rice.edu
+- **Ask your AI tool! Take a screen shot of what you see. AI is amazing for helping troubleshoot tech issues.**
 
 ---
 
