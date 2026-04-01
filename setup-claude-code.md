@@ -1,7 +1,7 @@
 # Setup: Claude Code
 
-**Time**: 2 minutes (browser) or 5 minutes (desktop)
-**Cost**: Free with Rice email (education access), or 30-day free trial, or Claude Pro ($20/mo)
+**Time**: 5 minutes (browser) or 10 minutes (desktop)
+**Cost**: Claude Pro ($20/mo)
 **Best for**: Complex builds, multi-file projects, the most capable AI coding assistant
 
 ---
