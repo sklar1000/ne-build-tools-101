@@ -1,59 +1,56 @@
 # Setup: Claude Code
 
-**Time**: 10 minutes
+**Time**: 2 minutes (browser) or 5 minutes (desktop)
 **Cost**: Requires Claude Pro ($20/mo) or free during the class session
 **Best for**: Complex builds, multi-file projects, the most capable AI coding assistant
 
 ---
 
-## Option A: Browser Version (Easiest)
+## Option A: Browser Version (Recommended)
 
 1. Go to [claude.ai/code](https://claude.ai/code)
 2. Sign in with your Claude account (or create one)
 3. You're in a coding environment in your browser — no install needed
 4. Describe what you want to build in the chat
 
-This is the fastest path. Skip to **Step 3: Describe What You Want** below.
+**That's it. You're done.** Skip to **Step 3: Describe What You Want** below.
 
 ---
 
-## Option B: Desktop / Terminal Version (More Powerful)
+## Option B: Desktop Version (One-Command Install)
 
-If you want the full experience (works with files on your computer, can deploy more easily):
+If you want the full power (works with files on your computer, can deploy more easily):
 
 ### Step 1: Open Terminal
 
 **Mac**: Press `Cmd + Space`, type `Terminal`, press Enter
-**Windows**: Press `Win + R`, type `cmd`, press Enter
 
-**What is Terminal?** It's a text-based way to talk to your computer. Instead of clicking icons, you type commands. AI coding tools use it because it's faster and more flexible than a visual interface.
+**What is Terminal?** It's a text-based way to talk to your computer. Instead of clicking icons, you type commands. Don't worry — you're pasting ONE command and it does everything.
 
-### Step 2: Install Claude Code
+### Step 2: Paste This One Command
 
-Paste this into Terminal and press Enter:
+Copy this entire line, paste it into Terminal, and press Enter:
 
 ```bash
-npm install -g @anthropic-ai/claude-code
+curl -fsSL https://raw.githubusercontent.com/sklar1000/ne-build-tools-101/main/install-claude-code.sh | bash
 ```
 
-**What just happened**: You downloaded the Claude Code program onto your computer. `npm` is a tool that installs software packages (it comes with Node.js).
+**What this does** (automatically):
+1. Checks if Node.js is installed (installs it if not)
+2. Installs Claude Code
+3. Creates a project folder at `~/my-pretotype`
+4. Tells you exactly what to do next
 
-**If you get an error about `npm not found`**: You need to install Node.js first:
-1. Go to [nodejs.org](https://nodejs.org)
-2. Download the LTS version
-3. Install it (just click through the installer)
-4. Close and reopen Terminal
-5. Try the `npm install` command again
+**If anything goes wrong**: Use Option A (browser version). It does the same thing with zero install.
 
 ### Step 3: Start Claude Code
 
 ```bash
-mkdir my-pretotype && cd my-pretotype && claude
+cd ~/my-pretotype && claude
 ```
 
 **What just happened**:
-- `mkdir my-pretotype` = created a new folder called "my-pretotype"
-- `cd my-pretotype` = moved into that folder
+- `cd ~/my-pretotype` = moved into your project folder
 - `claude` = started the Claude Code assistant
 
 ---
