@@ -15,9 +15,7 @@
 
 ---
 
-**WARNING: If you are on the free plan, DO NOT do the following before class. You will consume 100% of your free tokens.**
-
-
+# WARNING: If you are on the free plan, DO NOT do the following before class. You will consume 100% of your free tokens.
 
 ## Step 2: Create Your First Project
 
