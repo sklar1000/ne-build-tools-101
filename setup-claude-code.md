@@ -1,7 +1,7 @@
 # Setup: Claude Code
 
 **Time**: 2 minutes (browser) or 5 minutes (desktop)
-**Cost**: Requires Claude Pro ($20/mo) or free during the class session
+**Cost**: Free with Rice email (education access), or 30-day free trial, or Claude Pro ($20/mo)
 **Best for**: Complex builds, multi-file projects, the most capable AI coding assistant
 
 ---
@@ -9,7 +9,7 @@
 ## Option A: Browser Version (Recommended)
 
 1. Go to [claude.ai/code](https://claude.ai/code)
-2. Sign in with your Claude account (or create one)
+2. **Sign up with your @rice.edu email** — Anthropic's education program may give you free Pro access. If not, new accounts get a 30-day free trial that covers the entire pretotype sprint.
 3. You're in a coding environment in your browser — no install needed
 4. Describe what you want to build in the chat
 
